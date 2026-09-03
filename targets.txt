@@ -1,0 +1,9 @@
+# targets.txt
+# One target per line. Format: ip:port
+# Port defaults to 502 if omitted.
+#
+# Examples:
+# 192.168.56.101:502
+# 192.168.56.102
+#
+192.168.56.101:502
